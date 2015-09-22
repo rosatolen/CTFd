@@ -1,3 +1,5 @@
+[![Build Status](https://snap-ci.com/rosatolen/CTFd/branch/master/build_image)](https://snap-ci.com/rosatolen/CTFd/branch/master)
+
 ![](https://raw.githubusercontent.com/isislab/CTFd/master/CTFd/static/img/logo.png)
 ====
 
